@@ -1,0 +1,192 @@
+<table style="border-collapse:collapse; border:none;">
+<tr>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black;  ">AGE MONTHS</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Laughs Groups</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Laughs Pairs</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Laughs Indiv</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Smiles Groups</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Smiles Pairs</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; col7">Smiles Indiv</th>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">37</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">21</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">1</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">43</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">16</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">24</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">28</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">13</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">40</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">15</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.5</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">49</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">14</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">18</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">2.5</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">40</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">1</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">38</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">18</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">32</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">3</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">44</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">22</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">16</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">7</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">36</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">11</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">4</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">42</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">3</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">41</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">11.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">1</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">43</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">23.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">13</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">13.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">1</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">42</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">14</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">27.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">18</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">10.5</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">38</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">27</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">20</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">20</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">27</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">1</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">36</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">16.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">16</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">3</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">43</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">2</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">43</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">11.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">2</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">31</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">23</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">3</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; ">39</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1.5</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">3.5</td>
+</tr>
+<tr>
+<td style="padding:0.2cm; text-align:left; vertical-align:top;  text-align:center; border-bottom: double; ">39</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">0</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">2</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">2</td>
+<td style="padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; col7">2</td>
+</tr>
+</table>
+

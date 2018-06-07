@@ -1,0 +1,64 @@
+fixed as requested:
+- line 7, line 28-29
+- line 45
+- Line 69-70
+- Line 75
+- Line 88
+- Line 93-98 moved to discussion
+- Line 115, clarified
+- Line 158
+- Line 162, reworded
+- Line 163-164
+- Line 169 - do not have direct measure of SES
+- Line 196
+- Line 244
+- Line 245
+- Line 254-255
+- Line 407
+- Line 412
+- Line 470
+- Line 501
+
+- In the design section could you please specify if the video episodes were counterbalanced across condition?  If they were not, there may need to be some discussion of how you were certain they were equivalently likely to elicit laughter and smiling.
+
+Session 1 always showed Video 1 but counterbalancing occured because there were three different viewing order A,B,C. This is indicated in Table 1 and the logistic regression analysis now determines that there were no Order/Video effects.
+
+- Line 239-240 I'm confused about how two raters each doing 2/3 of the data would lead to all videos being coded twice.  It seems like only 1/3 of the of the videos would be coded twice.
+"The three researchers each independently coded two thirds of videos across all viewing conditions, ensuring each video was coded twice."
+
+
+
+- In the Laughter and Smiles sections of the results, report M = x, SD = x. The M, SD, F, t, p letters for statistical values should all be italicized.
+
+Fixed
+
+- This is the major substantive comment: How are you dealing with the repeated-measures data in the subjective funiness ratings section?  It seems to me that McNemar's test might be more appropriate than Chi Square.I also am concerned about dependency in the one-way ANOVA. Is each child entered 3 times, one for each session? While you are thinking about these, if you do decide to switch to different analyses, you might consider analyses that will treat the funiess ratings as an ordinal scale rather than nominal categories.
+
+- This is a valid point and we agree that a standard Chi-Square test might not detect an effect here. After some investigation we believe that the McNemar test does correct for repeated measures but not for ordinal data and that the most appropriate analysis seems a logistical regression. This also allows Group Size and Video/Order to be included in the same analysis. A final paragraph was added to the results.
+
+
+However, both these analyses may be overly conservative given that the funniness rating scale is ordinal and ratings are repeated measures across the three experimental conditions. Therefore, a further analysis was conducted using the repolr CRAN package, version 3.4 which fits logistic regression model to repeated ordinal scores, using a generalized estimating equation methodology (Parsons, 2016). The rating was the response variable and Group Size and Presentation Order were entered as ordinal predictor variables. This confirmed the findings of the previous analysis as there was no Group Size effect (model coefficient = -0.417, p = .52), no Order effect (coefficient = -1.220, p = .09) and no interaction (coefficient = 0.302, p = .41). Code for all these analyses is provided in the supporting materials.
+
+
+
+
+
+
+- Lines 420-433. In this paragraph I would suggest also acknowledging that you have used the funiness ratings as a nominal measure (if indeed you decide to continue with nominal analyses). In addition I think it would be good to acknowledge the low power you have to detect differences here.  Your power would depend on the type of analyses you choose to do, but I don't imagine it would be high enough for detecting small effects.
+
+"Another possibility is that the study was underpowered to detect these effects."
+
+- Line 447, The fact that a strong effect was still found suggests the children acted as if watching alone or that children respond differently in the presence of an adult than a co-viewing peer.
+
+This
+
+"The fact that laughter was minimal in the “individual” condition suggests the children acted as if watching alone or that children respond differently in the presence of an adult than a co-viewing peer. Finally, all the children in this study were well known to each other, having attended the same preschool for an extended period, increasing any likely social effects. Future research could investigate if the current effect is modulated by friendship and peer relations as is found for prosocial behaviours (Sebanc, 2003).""
+
+
+- Line 453 -fixed
+- Line 458 -fixed
+- Line 462 How is imitation different from social facilitation? It's not clear to me the distinction you are making.
+
+This led those authors to favour an imitation learning account of their results  (Bandura, 1978). If that were the case in our experiment we would expect far more laughter and smiling in the large group condition where there are more peers to copy. Instead our results favour an account in terms social facilitation (Zajonc 1965) where presence of even a single social partner facilitates laughter and smiles.
+
+- Line 463 - section from intro on Hoicka's work on humour moved here combined with later lines to from new paragraph
